@@ -1,0 +1,7 @@
+fileignoreconfig:
+- filename: dbinit.sql
+  checksum: 6bfb150efdabd36980dfb8e73f7847e18bc582e2679739d257306be8691a4034
+- filename: package-lock.json
+  checksum: f999c1e0c284860172a6c6566129f0a817772ca706a29c6453aaebab7bfb1565
+- filename: queries.js
+  checksum: 681dda9edbb3e2856dc5ef4ff5dad0baa5fa0fa732819f5a7aef227f2b6b3d7b
